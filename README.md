@@ -1,7 +1,7 @@
 # Power-BI-Projects
 
-Power BI Insurance Analytics Dashboard
-Project Title : Insurance Claims & Policy Insights Dashboard
+Power BI Analytics Dashboard
+Project Title : Insights Dashboard
 Tool: Microsoft Power BI
 
 Project Title / Headline .📊 Prism Insurance Analytics Dashboard A complete, interactive Power BI dashboard built to analyze insurance policies, claims, customer demographics, premium distribution, and operational performance. This visualization helps stakeholders track business KPIs, monitor claim trends, and make data-driven decisions.
